@@ -2,11 +2,12 @@
 <html>
 
 <head>
-    <title>Vi</title>
+    <title>L14</title>
     <style>
-        body{
+        body {
             background-color: rgb(161, 160, 255);
         }
+
         table.plan {
             background-color: rgb(228, 253, 243);
             width: 100%;
@@ -102,7 +103,7 @@
 
 <body>
 
-    <h1 style="padding-bottom: 0; margin-bottom: 0; text-align: center;">L15</1>
+    <h1 style="padding-bottom: 0; margin-bottom: 0; text-align: center;">L14</1>
         <h2 style="padding-top: 0; margin-top: 0; text-align: center;">Semestr VI </h2>
         <div style="text-align: center;">
             <a class="l" href="/prowadzący.html">👩🏼‍🏫Prowadzący<br></a>
@@ -122,23 +123,23 @@
             <tr class="plan">
                 <td class="d1">8:00 - 9:30</td>
                 <td class="d"></td>
-                <td class="d" style="background: aquamarine;">Przetwarzanie języka naturalnego <br>lab. P6 <br>
-                    D.Wiśniewski</td>
-                <td class="d crossed" style="background-color: blanchedalmond;"><br><br>Przetwarzanie równoległe <br>
-                    lab. 2.7.6 <br> Rafał Walkowiak </td>
+                <td class="d"></td>
+                <td class="d" style="background: rgb(205, 102, 214);">Informatyzacja przedsiębiorstw <br> lab. 43 <br>
+                    I.Masłowska</td>
                 <td class="d"></td>
                 <td class="d"></td>
             </tr>
             <tr class="plan">
                 <td class="d1">9:45 - 11:15</td>
                 <td class="d" style="background: rgb(205, 102, 214);">Informatyzacja przedsiębiorstw <br> wykład, cw4
-                    <br>Izabela Szczęch</td>
-                <td class="d" style="background: rgb(49, 233, 64);">Podstawy aplikacji internetowych <br>lab. 215 MCH
-                    <br> J.Dudkiewicz</td>
-                <td class="d" style="background: rgb(253, 114, 121);">Aplikacje mobilne <br> lab. 2.7.16 <br>Marek
-                    Mika/Rafał Różycki</td>
+                    <br>Izabela Szczęch
+                </td>
+                <td class="d"></td>
+                <td class="d crossed" style="background-color: blanchedalmond;"><br><br>Przetwarzanie równoległe <br>
+                    lab. 2.7.6 <br> Rafał Walkowiak </td>
                 <td class="d" style="background: rgb(144, 98, 252);">Przetwarzanie rozproszone <br> wykład, cw4
-                    <br>Jerzy Brzeziński</td>
+                    <br>Jerzy Brzeziński
+                </td>
                 <td class="d"></td>
             </tr>
             <tr class="plan">
@@ -150,7 +151,8 @@
                 <td class="d" style="background: antiquewhite;">Przetwarzanie równoległe <br> wykład, cw4 <br>Rafał
                     Walkowiak </td>
                 <td class="d" style="background: rgb(40, 246, 253);">Informatyka w medycynie<br> wykład, cw8
-                    <br>Krzysztof Krawiec </td>
+                    <br>Krzysztof Krawiec
+                </td>
             </tr>
             <tr class="plan">
                 <td class="d1">13:30 - 15:00</td>
@@ -167,12 +169,31 @@
             <tr class="plan">
                 <td class="d1">15:10 - 16:40</td>
                 <td class="d" style="background-color: rgb(253, 114, 121);">Aplikacje Mobilne <br>wykład, L053 BT
-                    <br>Marek Mika</td>
-                <td class="d"></td>
-                <td class="d" style="background: rgb(40, 246, 253);">Informatyka w medycynie <br> lab. 1.6.21 <br>
-                    I.Błądek</td>
+                    <br>Marek Mika
+                </td>
+                <td class="d" style="background: rgb(49, 233, 64);">Podstawy aplikacji internetowych <br>lab. 215 MCH
+                    <br> J.Dudkiewicz
+                </td>
+                <td class="d" style="background: aquamarine;">Przetwarzanie języka naturalnego <br>lab. P6 <br>
+                    D.Wiśniewski</td>
                 <td class="d" style="background-color: rgb(253, 114, 121);">Aplikacje mobilne <br> wykład, L053 BT
-                    <br>Rafał Różycki</td>
+                    <br>Rafał Różycki
+                </td>
+                <td class="d"></td>
+            </tr>
+            <tr class="plan">
+                <td class="d1">16:50 - 18:20</td>
+                <td class="d" style="background-color: rgb(253, 114, 121);">Aplikacje Mobilne <br>wykład, L053 BT
+                    <br>Marek Mika
+                </td>
+                <td class="d" style="background: rgb(49, 233, 64);">Podstawy aplikacji internetowych <br>lab. 215 MCH
+                    <br> J.Dudkiewicz
+                </td>
+                <td class="d" style="background: aquamarine;">Przetwarzanie języka naturalnego <br>lab. P6 <br>
+                    D.Wiśniewski</td>
+                <td class="d" style="background-color: rgb(253, 114, 121);">Aplikacje mobilne <br> wykład, L053 BT
+                    <br>Rafał Różycki
+                </td>
                 <td class="d"></td>
             </tr>
         </table>
